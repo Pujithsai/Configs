@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related development APIs "
+  message: "Welcome to EazyBank accounts related development APIs maijijiiiooijaoiji"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
   onCallSupport:
-    - (555) 555-1234maijijiiiooijaoiji
+    - (555) 555-1234
     - (555) 523-1345
